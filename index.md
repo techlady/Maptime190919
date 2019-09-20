@@ -1,1 +1,1 @@
-This is a map of voting lovations for the practice vote.
+This is a map of voting locations for the practice vote.
